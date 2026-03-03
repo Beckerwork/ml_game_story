@@ -5,3 +5,4 @@
 models/efficientnetV2_pretrained.keras
 models/inceptionV3_pretrained.keras
 .venv/
+.vscode/settings.json
